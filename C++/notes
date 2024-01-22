@@ -1,4 +1,5 @@
 /*
+
  #include<iostream>
  using namespace std;
 int main(){
@@ -53,4 +54,21 @@ iii) Symbols - it its used for specific purpose.
 
   (/*) it is used to comment out whole paragraph or it is used for multi line comment
 
+  => DATATYPES
+     i) int - numeric
+     ii)float - decimal number2
+     iii)char - 'a' 'b'
+   \n is called ESCAPE SEQUNECE OPERATOR(new line)
+   \t used to give space between two word(TAB)
+
+
+   => TYPES OF OPERATOR
+     It is used to perform any opertion that requires operands(variable)
+     There are many types of operator
+     i) ARITHEMATIC - (+ - * / %)
+           % - it take remainder as final result
+           / - it take quoitent as final result
+
+   Question - write a program to find sum of 3 digit number.
+   Question - write a program for swaping of 2 values.
 */
