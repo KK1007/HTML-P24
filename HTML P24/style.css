@@ -1,0 +1,107 @@
+/* 
+There are three types to use css for styling
+1) Inline Css
+2) Internal Css
+3) External Css
+
+
+i) Inline css
+<a href="anchor.html" style="color: red;">home</a>
+
+ii) Internal css
+                    <style>
+                     a{
+                        color: red;
+                     }
+                    </style>
+
+iii) External css 
+
+*/
+* {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  color: white;
+}
+
+.main {
+  background: #233142;
+  display: flex;
+  justify-content: space-between;
+  border: 10px solid black;
+  padding: 0px 40px 0px 40px;
+}
+
+.mid_nav {
+  display: flex;
+  list-style-type: none;
+}
+.mid_nav li {
+  padding: 20px 20px 20px 20px;
+}
+
+.start_nav {
+  list-style-type: none;
+}
+.start_nav li img {
+  border-radius: 50px;
+}
+
+.end_nav {
+  list-style-type: none;
+}
+.end_nav li {
+  padding: 8px 20px 10px 25px;
+  margin: 8px 0px 0px 0px;
+  border-style: double;
+  border-color: aliceblue;
+  border-radius: 12px;
+}
+
+.hero {
+  background: #233142;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+}
+
+.middle {
+  color: whitesmoke;
+  background: #be3144;
+  display: flex;
+  justify-content: center;
+}
+
+.info {
+  color: whitesmoke;
+  background: #be3144;
+  list-style-type: none;
+  display: flex;
+}
+#que {
+  margin-left: 600px;
+}
+
+#ans {
+  margin-left: 100px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  color: whitesmoke;
+  background-color: black;
+}
+.footer li {
+  list-style-type: none;
+  margin: 10px 100px 10px 100px;
+}

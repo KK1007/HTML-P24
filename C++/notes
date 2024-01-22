@@ -1,0 +1,56 @@
+/*
+ #include<iostream>
+ using namespace std;
+int main(){
+     int n;
+     cout<<"enter the number - ";
+     cin>>n;
+     cout<<"square of "<< n<<" is = "<<n*n;
+ }
+
+           DOCUMENTATION SECTION 
+           LINKER/HEADER SECTION* 
+           MACRO/DEFINE SECTION
+           GLOBAL SECTION
+           BODY SECTION*
+           SUB PROGRAM
+          *(mendatatory section)
+
+ # is known as pound. Also called PREPROSSED DIRECTIVE.
+
+There are six type of programing TOKENS(smallest unit of a program)
+
+ i) Keyword - Reserved words or we can say predefined whic have their own meaning and there are 32keywords
+
+ ii) Operator - (+ - * / ) - it is used to perform the operation on operants.
+
+iii) Symbols - it its used for specific purpose.
+
+ iv) String - it refers text or group of characters.
+
+ v) Constant - whose value or behaviour cant be changed.
+
+ vi) Identifier - it is used to identify the behaviour or the roleof the variable. there may be predefined or user defined identifiers.
+
+ << insertion operator
+ >> extration operator
+
+                          DATATYPES
+
+ *Basic data type - Pre-defined / Inbuilt   
+    i) integer 
+    ii) float 
+    iii) char        
+
+ *Derived data type - User defined
+
+ Variables refers the memory address of the identifiers
+
+&a it is used to print address
+                 
+ while declaring any variables we cant use space, symbols but we can use numbers and underscore.
+  we cant start with numbers
+
+  (/*) it is used to comment out whole paragraph or it is used for multi line comment
+
+*/
