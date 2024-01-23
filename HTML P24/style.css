@@ -31,9 +31,9 @@ a {
 .start_nav {
   list-style-type: none;
 }
-.start_nav li img {
-  border-radius: 50px;
-}
+  .start_nav li img {
+    border-radius: 50px;
+  }
 
 .end_nav {
   list-style-type: none;
@@ -47,13 +47,21 @@ a {
 }
 
 .hero {
+  list-style-type: none;
  background-image: url(img3.jpg);
  height: fit-content;
   display: flex;
   justify-content: center;
   color: whitesmoke;
 }
-
+.hero div i{
+  font-size: 40px;
+  color: whitesmoke;
+  background-color: black;
+  padding: 10px;
+  border-radius: 60%;
+  margin-left: 110px;
+}
 .middle {
   background-image: url(img3.jpg);
   background-size: cover;
@@ -87,5 +95,10 @@ a {
 
 .footer li {
   list-style-type: none;
-  margin: 30px 100px 30px 100px;
+  padding: 8px 20px 10px 25px;
+  margin: 8px 0px 0px 0px;
+  border-style: double;
+  border-color: aliceblue;
+  border-radius: 15px;
+  
 }
