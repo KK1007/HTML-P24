@@ -65,10 +65,18 @@ iii) Symbols - it its used for specific purpose.
    => TYPES OF OPERATOR
      It is used to perform any opertion that requires operands(variable)
      There are many types of operator
+
      i) ARITHEMATIC - (+ - * / %)
            % - it take remainder as final result
            / - it take quoitent as final result
 
-   Question - write a program to find sum of 3 digit number.
-   Question - write a program for swaping of 2 values.
+     ii)LOGICAL - There are three types of logical operator
+                - AND(&&) It will return TRUE (1) if and only if both conditions are TRUE else it will return FALSE(0) EX:- a = 44 && 9
+
+                - OR(||) - It will return FALSE if and only if both conditions FALSE(0) else it will      return TRUE(1) EX:- 6 || 0
+
+                - NOT(!) - It will give OPPOSITE result EX:- !(44 && 9)
+
+  QUE - write a program to convert celcius into farahnhite.
+        write a program to print the simple intrest.
 */
