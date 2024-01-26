@@ -98,5 +98,17 @@ iii) Symbols - it its used for specific purpose.
              5) <<(LEFT SHIFT)
              6) >>(RIGHT SHIFT)
 
+      Q.1 Write a program to find area of rectangle?
+      Q.2 Write a program to find square and cube of any number entered by user?
+      Q.3 Write a program to find the area of circle?
+      Q.4 Find the output of following problem:
+      int a,b;
+      a=29<<3;
+      b=76>>5;
+      a=++b;
+      b=--a;
+      cout<<a;
+      cout<<b;
+
   
 */
