@@ -77,6 +77,26 @@ iii) Symbols - it its used for specific purpose.
 
                 - NOT(!) - It will give OPPOSITE result EX:- !(44 && 9)
 
-  QUE - write a program to convert celcius into farahnhite.
-        write a program to print the simple intrest.
+      iii) RELATIONAL - (COMPARE OPETATOR) > >= < <= == !=
+
+      iv) ASSIGNMENT - (=) it assign value to any variable.
+
+      v) UNARY OPERATOR - It requies only one operant to perform any operation. There are two types of UNARY OPERATOR 
+
+           INCRIMENT(++)
+               POST FIX - a++
+               PRE FIX - ++a
+
+           DECREMENT(--)
+               POST FIX - a--
+               PRE FIX - --a
+      vi) BITWISE OPERATOR - There are 6 types of BITWISE OPERATOR
+             1) &(AND)
+             2) !(OR)
+             3) ^(Xor)
+             4) ~(NEGATION)
+             5) <<(LEFT SHIFT)
+             6) >>(RIGHT SHIFT)
+
+  
 */
