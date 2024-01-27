@@ -8,5 +8,6 @@ int main(){
       b=--a;
       cout<<a;
       cout<<b;
+      return 0;
                   
 }
