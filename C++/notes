@@ -98,17 +98,16 @@ iii) Symbols - it its used for specific purpose.
              5) <<(LEFT SHIFT)
              6) >>(RIGHT SHIFT)
 
-      Q.1 Write a program to find area of rectangle?
-      Q.2 Write a program to find square and cube of any number entered by user?
-      Q.3 Write a program to find the area of circle?
-      Q.4 Find the output of following problem:
-      int a,b;
-      a=29<<3;
-      b=76>>5;
-      a=++b;
-      b=--a;
-      cout<<a;
-      cout<<b;
+      vii) TERNARY OPERATOR -  It is a shortcut method of if-else. In a ternary operator we use 2 symbols (?) and (:). If the condition is true it will take ontrue value which comes after question mark and in false condition it will take onfalse value which comes after colon(:)
+
+                 Syntax - CONDITION ? TRUE(1) : FALSE(0)
+
+                 Ex:- {
+                  int age;
+                  cout<<"enter age\n";
+                  cin>>age;
+                  cout<<(age>=18)?"eligiable":"not";
+                 }
 
   
 */
