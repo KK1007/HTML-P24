@@ -1,0 +1,56 @@
+* {
+                    font-family: "Montserrat", sans-serif;
+                    font-size: 20px;
+                    font-weight: 100;
+                    text-decoration: none;
+                    
+                  }
+                  body {
+                    margin: 0px;
+                    padding: 0px;
+                  }
+
+                  .navbar{
+                    background-image: url(https://itemsstore.net/html/trito/img/hero/1.jpg);
+                 display: flex;
+                 justify-content: space-evenly;
+                 margin: 0px 0px 0px 0px;
+                
+                  }
+
+                  .start_nav{
+                    list-style-type: none;
+                  }
+
+                  .mid_nav{
+                    margin-top: 30px;
+                    display: flex;
+                    list-style-type: none;
+                  }
+
+                  .mid_nav li a{
+                    list-style-type: none;
+                  padding: 10px;
+                  }
+
+                  .end_nav{
+                    border: 1px solid white;
+                    list-style-type: none;
+                   background:#24315E;
+                   padding: 10px 30px 9px;  
+                  }
+
+                  .end_nav li a{
+                    color: #FFFFFF;
+                    font-weight: 800;
+                  }
+
+                  .end_nav li a:hover{
+                    color: #24315E;
+                    font-weight: 1000;
+                  }
+
+                  .end_nav:hover{
+                    border: 1px solid #24315E;
+                  background-color: #FFFFFF;
+                  }
