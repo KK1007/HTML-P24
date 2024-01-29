@@ -8,6 +8,7 @@
                   body {
                     margin: 0px;
                     padding: 0px;
+                    
                   }
 
                   .navbar{
@@ -15,6 +16,7 @@
                  display: flex;
                  justify-content: space-evenly;
                  margin: 0px 0px 0px 0px;
+                 border: 1px solid #24315E;
                 
                   }
 
@@ -31,6 +33,7 @@
                   .mid_nav li a{
                     list-style-type: none;
                   padding: 10px;
+                
                   }
 
                   .end_nav{
@@ -53,4 +56,44 @@
                   .end_nav:hover{
                     border: 1px solid #24315E;
                   background-color: #FFFFFF;
+                  }
+
+                  .name{
+                    margin : 50px 100px 0px 100px;
+                    color: #24315E;
+                  }
+
+                  .middle{
+                    display: flex;
+                    justify-content: space-evenly;
+                    background-image: url(https://itemsstore.net/html/trito/img/hero/1.jpg);
+                  }
+
+                  .picture img{
+                    margin-bottom: -7px;
+                    margin-right: 200px;
+                  }
+
+                  .my_client{
+                    background-color: #24315E;
+                    padding-top: 10px;
+                    color: #FFFFFF;
+                    display: flex;
+                  }
+                  .button{
+                    list-style-type: none;
+                  margin: 30px -40px 0px;
+                  }
+
+                  .button li a{
+                    background-color: #FFFFFF;
+                    font: 16px;
+                    border: 2px solid black;
+                    padding: 8px 33px;
+                    font-weight: 500px;
+                    
+                  }
+                  .my_work{
+                    list-style-type: none;
+                    display: flex;
                   }
