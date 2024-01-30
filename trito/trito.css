@@ -59,19 +59,22 @@
                   }
 
                   .name{
-                    margin : 50px 100px 0px 100px;
+                    margin : 100px 50px 0px 200px;
                     color: #24315E;
+                    
                   }
 
                   .middle{
                     display: flex;
                     justify-content: space-evenly;
                     background-image: url(https://itemsstore.net/html/trito/img/hero/1.jpg);
+                    
                   }
 
                   .picture img{
                     margin-bottom: -7px;
-                    margin-right: 200px;
+                    margin-right: 150px;
+                    margin-top: 50px;
                   }
 
                   .my_client{
@@ -81,19 +84,50 @@
                     display: flex;
                   }
                   .button{
+                    font-size: 10px;
                     list-style-type: none;
-                  margin: 30px -40px 0px;
+                    margin-top: 50px;
+                  display: flex;
+                  justify-content: space-evenly;
+                 
                   }
 
-                  .button li a{
+                  #say_hello{
+                    width: fit-content;
                     background-color: #FFFFFF;
-                    font: 16px;
                     border: 2px solid black;
                     padding: 8px 33px;
                     font-weight: 500px;
+                    color: #24315E;
+                    margin-left: -30px;
+                    
                     
                   }
-                  .my_work{
+                  #say_hello:hover{
+                    border: 2px solid white;
+                    background-color: #24315E;
+                    color: #FFFFFF;
+                    }
+                    #say_hello a:hover{
+                   
+                     
+                      color: #FFFFFF;
+                      }
+  
+
+                  #my_work{
+                    text-decoration-line: underline;
+                    margin: 10px 300px 0px 0px ; 
+                    color: #24315E; 
+                  }
+                
+                  .message h3{
+                    font-weight: 700;
+                    margin: 150px 0px 0px -10px;
+                    font-style: italic;
+                  }
+
+                  .my_client{
                     list-style-type: none;
                     display: flex;
                   }

@@ -109,7 +109,17 @@ iii) Symbols - it its used for specific purpose.
                   cout<<(age>=18)?"eligiable":"not";
                  }
 
-      viii) SPECIAL OPERATOR
+      viii) SPECIAL OPERATOR -
+        :: (SCOPE RESOLUTION OPERATOR)- It is used to excess any global varialbe or function in side a main fucntion.
+        
+                  example-      int a=34 //golbal
+                                main(){
+                                a=90; //local
+                                cout<<::a;
+                                }
+
+
+      * TYPECASTING - To vonvert the behaviour of one datatype into another datatype is called TYPECASTING
 
   
 */
