@@ -121,5 +121,40 @@ iii) Symbols - it its used for specific purpose.
 
       * TYPECASTING - To vonvert the behaviour of one datatype into another datatype is called TYPECASTING
 
-  
+                 ==============CONTROL FLOW STATEMENT==============
+                            
+        There are three types of CONTROL FLOw STATEMENT
+
+           i)CONDITION STATEMENT
+                1) SINGLE (if)
+                2) BI (if-else)
+                3) LADDER
+                4) NESTED
+
+          ii) SWITCH JUMPING STATEMENT
+                1) goto
+                2) break
+                3) switch
+
+          iii) LOOP STATEMENT
+                1) Do While
+                2) While
+                3) For
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+                
 */
