@@ -122,9 +122,29 @@
                   }
 
                   .my_client{
-                    background-color: #24315E;
-                    padding-top: 10px;
+                  
                     color: #FFFFFF;
                     
                   }
+              
+                  .line{
+                    background-color: #24315E;
+                    color: #FFFFFF;
+                    
+                   
+                  }
+               
+                  #linei{
+                    font-weight: 700;
+                    
+                  }
 
+                  #lineii{
+                   font-weight: 700; 
+                  }
+
+                  #lineiii{
+                    font-weight: 700; 
+                  }
+
+                  
