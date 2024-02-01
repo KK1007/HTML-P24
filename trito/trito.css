@@ -147,4 +147,11 @@
                     font-weight: 700; 
                   }
 
+                  .dedication{
+                    display: flex;
+                    justify-content: center;
+                    padding: 40px;
+                    margin-left: 150px;
+                  }
+
                   

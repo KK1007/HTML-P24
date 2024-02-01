@@ -2,11 +2,13 @@
   font-family: "Montserrat", sans-serif;
   font-size: 20px;
   font-weight: 700;
+ 
 }
 
 body {
   margin: 0px;
   padding: 0px;
+
 }
 
 a {
@@ -48,14 +50,17 @@ a {
 }
 
 .hero {
+  
   list-style-type: none;
  background-image: url(img3.jpg);
  height: fit-content;
   display: flex;
   justify-content: center;
   color: whitesmoke;
+
 }
 .hero div i{
+  margin-top: 100px;
   font-size: 40px;
   color: whitesmoke;
   background-color: black;
@@ -92,6 +97,7 @@ a {
   justify-content: space-between;
   color: whitesmoke;
   background-color: black;
+
 }
 
 .footer li {
@@ -101,5 +107,5 @@ a {
   border-style: double;
   border-color: aliceblue;
   border-radius: 15px;
-  
-}
+
+} 
