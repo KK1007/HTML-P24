@@ -155,3 +155,127 @@
                   }
 
                   
+       #skillsdiv2{
+        background-image: url(https://itemsstore.net/html/trito/img/skills/1.jpg)  ;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        padding: 50px ;
+
+        
+       }
+
+                   
+       #skillsdiv2 div{
+        font-weight: 700;
+        border: 2px solid black;
+        width: 60px;
+        padding: 10px 10px 10px 50px;
+        margin: 20px;
+        background-color: #FFFFFF;
+        
+        
+       }
+       #mainskills{
+        display: flex;
+        justify-content:  space-evenly;
+        padding: 40px;
+       }
+
+       .value{
+        margin: 70px 0px 50px 50px;
+        display: flex;
+        justify-content: space-evenly;
+       }
+                
+       #Downloaded{
+        display: flex;
+    
+       }
+
+       #open_source{
+        display: flex;
+       }
+
+       #Satisfaction{
+        display: flex;
+        justify-content: space-between;
+       }
+
+       .DIV1{
+        font-size: 60px;
+        text-decoration: underline;
+        font-weight: 800;
+        color: #243153;
+       }
+       
+       .DIV2{
+        font-size: 21px;
+        color: #505A7E;
+        margin: 15px 0px 0px 20px;
+        padding: 0px 0px 0px 25px;
+       }
+
+
+
+       .yellow_background{
+        background-image: url(https://itemsstore.net/html/trito/img/about/background.jpg);
+        height: 700px;
+        display: flex;
+        justify-content: space-evenly;
+        border: 1px solid #24315E;
+       }
+
+       #think img{
+        width: 450px;
+        margin: 50px 0px 0px 90px;
+       }
+       
+       .about_me table {
+        margin: 150px 0px 0px 1px;
+       }
+
+       .about_me table tr td{
+        font-weight: 400  ;
+        color: #FF4612; 
+        font-weight: 800 ;
+        font-size: 17px;
+       }
+
+       #i_can_develop{
+        font-size: 50px;
+        color: #243153; 
+        font-weight: 900; 
+        margin-top: 0px
+       }
+
+        .hire_me {
+        margin-top: 35px;
+        
+       }
+
+       .hire_me a{
+        font-size: 16px;
+        border: 1px solid black;
+        background-color: #24315E;
+        color: #FFFFFF;
+        padding: 18px 35px;
+       }
+
+       .hire_me a:hover{
+        font-size: 16px;
+        border: 1px solid white;
+        background-color: #FFFFFF;
+        color: #24315E;
+        padding: 18px 35px;
+       }
+ 
+      .this_template{
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 130px;
+      }
+
+      .parent_div{
+        margin-top: 50px;
+      }
+      
