@@ -182,7 +182,7 @@
        }
 
        .value{
-        margin: 70px 0px 50px 50px;
+        margin: 100px 0px 130px 50px;
         display: flex;
         justify-content: space-evenly;
        }
@@ -263,10 +263,21 @@
 
        .hire_me a:hover{
         font-size: 16px;
-        border: 1px solid white;
+        border: 1px solid black;
         background-color: #FFFFFF;
         color: #24315E;
         padding: 18px 35px;
+       }
+
+       .position_box{
+        display: flex;
+        border: 2px solid black; 
+        width: fit-content;
+        background-color: #FFFFFF;
+        padding: 5px 15px 10px 20px;
+        position: absolute;
+        top: 2490px;
+        left: 205px;
        }
  
       .this_template{
@@ -278,4 +289,53 @@
       .parent_div{
         margin-top: 50px;
       }
+
+      .FAQ table tr td{
+        font-weight: 400  ;
+        color: #FF4612; 
+        font-weight: 800 ;
+        font-size: 17px;
+       }
+
+       .question{
+        color: #FFFFFF;
+        background-color: #24315E;
+        font-size: 35px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 600;
+        margin: 50px 150px 50px 200px;
+        padding: 20px 50px 20px 40px;
+        border: 2px solid black;
+       }
+
+       .Contact{
+        background-image: url(https://itemsstore.net/html/trito/img/hero/1.jpg);
+        
+        height: 350px;
+        padding: 40px 35px 10px 10px;
+        margin: 100px 0px 100px 0px;
+       }
+
+       .Contact a{
+        font-size: 16px;
+        font-weight: 500;
+        border: 1px solid black;
+        background-color: #FFFFFF;
+        color: #24315E;
+        padding: 10px 35px ;
+        position: relative;
+        top: -10px;
+        left: 610px;
+
+       }
+
+       .Contact a:hover{
+        font-size: 16px;
+        border: 1px solid white;
+        background-color: #24315E;
+        color: #FFFFFF;
+        padding: 8px 35px;
+       }
+       
+       
       
