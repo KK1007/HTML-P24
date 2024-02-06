@@ -336,6 +336,11 @@
         color: #FFFFFF;
         padding: 8px 35px;
        }
+
+       .img_hov img:hover{
+        scale: 1.3;
+        transition: scale 1s;
+       }
        
        
       

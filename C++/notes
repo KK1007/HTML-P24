@@ -140,6 +140,51 @@ iii) Symbols - it its used for specific purpose.
                 1) Do While
                 2) While
                 3) For
+
+
+      NESTED IF :- Nested condition is also called inner condition . Here we use mltiple "if" inside the condition
+
+                 SYNTAX :- 
+                   if(condition)
+                    {
+                           if(condition)
+                            {
+
+                            }
+                            else
+                            {
+
+                            }
+                    }
+
+                    else
+                    {
+
+                    }
+
+      LADDER IF :- It is also called OUTER condition , where we use multiple "else if" condition
+      SYNTAX :-
+      if(condition)
+      {
+            statement;
+      }
+
+      else if(condition)
+      {
+            statement;
+      }
+
+      else if(condition)
+      {
+            statement;
+      }
+
+      else
+      {
+            statement;
+      }
+
+      homework-
 */
 
 
