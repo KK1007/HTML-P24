@@ -230,6 +230,15 @@ iii) Symbols - it its used for specific purpose.
                   break;
             }
       }
+
+      * DO_WHILE LOOP :- DO-while loop is also called exit loop. It will execute the statement till the condition is true ,else it will come out from the loop.
+
+      NOTE- It will execute the statement atleast one time wether the condition iss tru or false
+
+      SYNTAX:- do{
+            statement;
+            increment/decrement;
+      }while(condition);
 */
 
 
