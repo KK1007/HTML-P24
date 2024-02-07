@@ -184,7 +184,52 @@ iii) Symbols - it its used for specific purpose.
             statement;
       }
 
-      homework-
+      TRANSFER STATEMENT :- 
+
+      i) goto - Goto is a label . we can use label by using goto keyword. we declare a label with colon (:)
+
+      SYNTAX :-  goto labelname;
+                  -------
+                  -------
+                 labelname :
+
+===============WRITE A PROGRAM TO PRINT THE TABLE OF ANY NUMBER USING GOTO STATEMENT===============
+
+      ii) SWITCH CASE :- It is used for either menu based programming or choice based programming.
+      
+      SYNTAX :-
+      switch()
+      {
+            case variable:
+            {
+                  statement;
+                  break;
+            }
+
+             case variable:
+            {
+                  statement;
+                  break;
+            }
+            .
+            .
+            .
+            .
+            .
+            .
+            .
+            .
+            .
+            .
+            .
+            .
+            .
+            default:
+            {
+                  statement;
+                  break;
+            }
+      }
 */
 
 
