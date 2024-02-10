@@ -1,0 +1,39 @@
+* {
+                    box-sizing: border-box;
+                  }
+                  div {
+                    border-radius: 5px;
+                    background-color: #f2f2f2;
+                    padding: 20px;
+                    display: flex;
+                    justify-content: center;
+                    margin: 0px 600px 0px 600px;
+                  }
+
+                  input[type=submit] {
+                    width: 100%;
+                    background-color: #06D8A7;
+                    color: #24315E;
+                    padding: 14px 20px;
+                    margin: 8px 0;
+                    border: none;
+                    font-weight: 700;
+                    cursor: pointer;
+                  }
+                  
+                  input[type=submit]:hover {
+                    color: #FFFFFF;
+                    background-color: #24315E;
+                    font-weight: 700;
+                  }
+
+                  input[type=text], select {
+                    width: 100%;
+                    padding: 12px 20px;
+                    margin: 8px 0;
+                    display: inline-block;
+                    border: 1px solid #ccc;
+                    border-radius: 4px;
+                    box-sizing: border-box;
+                    
+                  }
