@@ -1,6 +1,4 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
+
 :root {
   /**
                      * colors
@@ -1080,7 +1078,7 @@ textarea.form-input::-webkit-resizer {
 
 /**
                    * responsive larger than 768px screen
-                   */
+                   
 
 @media (min-width: 768px) {
   /**
