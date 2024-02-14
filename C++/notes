@@ -239,6 +239,8 @@ iii) Symbols - it its used for specific purpose.
             statement;
             increment/decrement;
       }while(condition);
+
+      * TYPECASTING :- conversion from one datatype into another datatype is called TYPECASTING
 */
 
 

@@ -2,6 +2,7 @@
   font-family: "Montserrat", sans-serif;
   font-size: 20px;
   font-weight: 700;
+  overflow-x: hidden;
  
 }
 
@@ -48,7 +49,7 @@ a {
   border-color: aliceblue;
   border-radius: 12px;
 }
-
+/* <!==============================================================================================!> */
 .hero {
   
   list-style-type: none;
@@ -109,3 +110,119 @@ a {
   border-radius: 15px;
 
 } 
+/* <================================================================================================> */
+@media (max-width: 425px){
+
+  
+    
+.main {
+  background: black;
+ 
+  
+  
+}
+
+.mid_nav {
+
+  list-style-type: none;
+  overflow-x: hidden;
+}
+
+.mid_nav li {
+  
+  overflow-x: hidden;
+}
+
+.start_nav {
+  list-style-type: none;
+  overflow-x: hidden;
+}
+
+  .start_nav li img {
+    border-radius: 50px;
+    overflow-x: hidden;
+    margin-left: -40px;
+    width: ;
+  }
+
+.end_nav {
+  list-style-type: none;
+  overflow-x: hidden;
+}
+
+.end_nav li {
+  padding: 8px 20px 10px 25px;
+  margin: 8px 0px 0px 0px;
+  border-style: double;
+  border-color: aliceblue;
+  border-radius: 12px;
+  overflow-x: hidden;
+}
+
+.hero {
+  overflow-x: hidden;
+  list-style-type: none;
+ background-image: url(img3.jpg);
+ height: fit-content;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+
+}
+
+.hero div i{
+  margin-top: 100px;
+  font-size: 40px;
+  color: whitesmoke;
+  background-color: black;
+  padding: 10px;
+  border-radius: 60%;
+  margin-left: 75px;
+  overflow-x: hidden;
+}
+
+.middle {
+  background-image: url(img3.jpg);
+  background-size: cover;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+.info {
+  color: whitesmoke;
+  background-image: url(img3.jpg)  ;
+  background-size: cover;
+  list-style-type: none;
+  display: flex;
+  overflow-x: hidden;
+}
+#que {
+  margin-left: 600px;
+  overflow-x: hidden;
+}
+
+#ans {
+  margin-left: 100px;
+  overflow-x: hidden;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  color: whitesmoke;
+  background-color: black;
+  overflow-x: hidden;
+}
+
+.footer li {
+  list-style-type: none;
+  padding: 8px 20px 10px 25px;
+  margin: 8px 0px 0px 0px;
+  border-style: double;
+  border-color: aliceblue;
+  border-radius: 15px;
+  overflow-x: hidden;
+}
+}
