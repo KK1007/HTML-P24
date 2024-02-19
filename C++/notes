@@ -241,6 +241,12 @@ iii) Symbols - it its used for specific purpose.
       }while(condition);
 
       * TYPECASTING :- conversion from one datatype into another datatype is called TYPECASTING
+
+      *ARRAY :- Collection of similar types od data is called ARRAY. It stores the data siquentialy or linear. With the help of array we can search the data quickly. The indexing of ARRAY starts from 0. 
+      To declare an aray we have to give following syntax
+           {
+           datatype  arrayname[size]
+           }
 */
 
 
