@@ -246,6 +246,7 @@ iii) Symbols - it its used for specific purpose.
       To declare an aray we have to give following syntax
            {
            datatype  arrayname[size]
+           
            }
 */
 
