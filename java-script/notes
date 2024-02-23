@@ -1,3 +1,12 @@
 JAVA SCRIPT :- launched by BRENDN EICH in 1985. Earrlier it was named as LIVE SCRIPT. NETSCAPE was its organization but now it is done by ECMA(European computer manufacturers association). 
 
 JAVASCRIPT is a dynamic type language.
+
+Console is a object and . axis is a member operater 
+ 
+ We can declare ariable by three ways
+ 1) var - With the help of var we can redeclare and reassign value. ye global decleration karta hai.
+
+ 2) let - in this we can not redeclare value but can reassign. ye local decleration karta hai.
+
+ 3) const -it can neither be redeclare nor reassign. ye local decleration karta hai.
