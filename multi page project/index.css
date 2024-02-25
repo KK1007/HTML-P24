@@ -51,7 +51,7 @@
                     border-radius: 20px;
                     padding: 10px 12px;
 }
-/* <!-------------------------------------------------------------------------------------------------------------> */
+/* <!------------------------------------------------------------------------------------------------------------> */
 .middle{
                     display: flex;
                     justify-content: space-evenly;
@@ -118,4 +118,106 @@
                     text-decoration: underline;
                     margin-top: 20px;
                     margin-left: -350px;
+}
+
+.Last{
+                    background-color: #EEEEEE;
+                    margin-top: 50px;
+
+}
+
+#It’s{
+                    font-size: 50px;
+                    margin-left: 160px; 
+                                
+}
+
+.QR{
+                    margin-top: 20px;
+                    
+                    display: flex;
+                    justify-content: space-evenly;
+}
+
+.QR1{
+                    display: flex;
+                    background-color: #FFFFFF;
+                    padding: 10px;
+                    border-radius: 10px;
+                    margin-bottom: 50px;
+                   
+}
+.QR2{
+                    display: flex;
+                    background-color: #FFFFFF;
+                    padding: 10px;
+                    border-radius: 10px;
+                    margin-bottom: 50px;
+                   
+}
+.download{
+                    margin: 35px 20px 0px 50px;
+                    font-size: 30px;
+}
+/*<!---------------------------------------------------------------------------------------------------------> */
+                                                  /*Footer*/
+
+.footer{
+                    
+                    background-color: #000000;
+                    height: 800px;
+                    
+}
+
+#uber{
+                    color: #FFFFFF;
+                    text-decoration: none;   
+                    font-size: 24px; 
+                    margin-left: 205px;
+                    
+                            
+}
+
+#visit{
+                    color: #FFFFFF;
+                    text-decoration: none;   
+                    font-size: 16px;
+                    margin-left: 205px;            
+}
+
+.footer_info{
+       display: flex;
+       justify-content: space-evenly;
+       font-size: 20px;
+       margin-top: 50px;
+}
+.heading{
+                    font-size: 25px;
+                    text-decoration: underline;
+}
+
+.company{
+                    color: whitesmoke;
+                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    font-weight: 100;
+}
+
+.icon{
+                    margin-top: 30px;
+                    margin-left: 55px;
+                    display: flex;
+                    justify-content: space-evenly;
+}
+
+.icon a{
+                    color: white;
+}
+
+.image{
+                    margin: 80px 0px 0px 200px;
+}
+
+.copyright{
+                    color: #AFAFAF;
+                    margin: 50px 0px 0px 200px;
 }
