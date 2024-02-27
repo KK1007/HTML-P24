@@ -6,4 +6,22 @@ h1 {
   color: green;
 }
 
+#btn {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 2px solid red;
+  color: white;
+}
+
+#btn1 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 2px solid red;
+  color: white;
+  color: white;
+  background-color: black;
+}
+
 /*# sourceMappingURL=index.css.map */
