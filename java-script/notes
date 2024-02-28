@@ -15,4 +15,14 @@ Console is a object and . axis is a member operater
  QUE :- to find simple intrese
   types of loop - do , while , do while , forin loop , foroff loop.
 
-  
+                                -----FUNCTION-----
+ set of instructions. it  is used to reuse code. There are two types of function 1) pre-defined 2)user defined.
+ syntax- 
+  function indentity(arguments)
+    {
+      //statements
+    }
+
+    indentity(arguments);
+
+    there are 4 types of userdefined function
