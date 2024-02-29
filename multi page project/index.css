@@ -173,6 +173,7 @@
                     color: #FFFFFF;
                     text-decoration: none;   
                     font-size: 24px; 
+                   
                     margin-left: 205px;
                     
                             
@@ -543,3 +544,105 @@
 .the_driver_app img{
        margin-right: -200px;
 }
+
+.question{
+          margin: 10px 200px 0px 200px;
+          padding: 64px;
+}
+.question h1{
+       font-size: 40px;
+       color: #333333;
+       font-weight: 900;
+       padding: 16px 20px;
+}
+.question p{
+       font-size: 20px;
+       font-weight: 700;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       color: #000000;
+       border-bottom: 2px solid #EEEEEE;
+       padding: 16px 20px;
+       margin-left: 30px;
+}
+
+.drive_your_way {
+      background-color: #EEEEEE;
+      height: 500px;
+}
+
+.drive_your_way h1{
+       background-color: #EEEEEE;
+       margin-left: 150px;
+      padding-top: 50px;
+      padding-bottom: -15px;
+       font-size: 40px;
+}
+
+ .driver_app{
+       margin: 50px 750px -450px 150px;
+       padding: 64px;
+       display: flex;
+       background-color:#FFFFFF;
+}
+
+.sign_up_to_drive{
+padding: 60px;
+}
+
+.sign_up_to_drive h1{
+       margin:0px 700px 0px 100px;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       border-bottom: 1px solid #000000;
+       font-size: 36px;
+       color: #000000;
+       padding: 30px 20px;
+}
+
+.sign_up_to_drive p{
+      font-size: 18px;
+      color: #333333;
+      margin: 120px 0px 80px 100px;
+}
+/* <======================================================================================================================> */
+                                      /* UBER EATS */
+
+.uber_eats{
+       background-image: url(https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/c413f20400e04805.webp);
+}
+
+.navbar_ubar_eats{
+       display: flex;
+       justify-content: space-between;
+       padding: 0px 40px;
+}
+.navbar_ubar_eats img{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.navbar_ubar_eats p a{
+       color: #000000;
+       margin-right: 10px;
+   }
+   .navbar_ubar_eats p{
+      background-color: white;
+      height: fit-content;
+       font-size: 16px;
+       padding: 12px 16px;
+       border-radius: 15px 15px 15px 15px;
+       margin-top: 20px;
+   }
+
+   .navbar_ubar_eats p1{
+       background-color: #000000;
+       color: #FFFFFF;
+      height: fit-content;
+       font-size: 16px;
+       padding: 12px 16px;
+       border-radius: 15px 15px 15px 15px;
+       margin-left: -1070px;
+       margin-top: 20px;
+   }
+   
+   
+
+
