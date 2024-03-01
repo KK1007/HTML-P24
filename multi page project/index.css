@@ -608,6 +608,7 @@ padding: 60px;
 
 .uber_eats{
        background-image: url(https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/c413f20400e04805.webp);
+       
 }
 
 .navbar_ubar_eats{
@@ -642,7 +643,37 @@ padding: 60px;
        margin-left: -1070px;
        margin-top: 20px;
    }
-   
+
+.Order_delivery_near_you {
+       margin-left: 40px;
+}
+
+.enter_delivery_search{
+       display: flex;
+       justify-content: space-evenly;
+}
+.enter_delivery_search p1{
+       padding: 8px 16px;
+      
+       font-size: 16px;
+       color: #000000;
+       background-color: #FFFFFF;
+}
+
+.enter_delivery_search p2{
+       padding: 10px 20px 10px 20px;
+       font-size: 16px;
+       color: #000000;
+       background-color: #FFFFFF;
+}
+ 
+.enter_delivery_search p3{
+       text-decoration: none;
+       padding: 10px 20px 10px 20px;
+       font-size: 16px;
+       background-color: #000000;
+       color: #FFFFFF;
+}
    
 
 
