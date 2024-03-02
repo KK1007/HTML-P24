@@ -252,9 +252,13 @@ iii) Symbols - it its used for specific purpose.
       *2D ARRAY :-
                                     -----FUNCTION-----
  set of instructions. it  is used to reuse code for specific purpose and it also save our time ass well as memory. 
- There are two types of function 1) pre-defined 2)user defined.
+ There are two types of function 
+ 1) pre-defined 
+ 2) user defined.
  syntax- 
-
+write a program to generate the facorial of any number using function
+write a program to dispaly the table of amy number using function
+write a program to print the even number from given number usung function
 
 
 
