@@ -33,3 +33,6 @@ Console is a object and . axis is a member operater
       2) without argument & with return value
       3) with argument & with return value
       4) with argument & no return
+
+DOM- Document object model used to manipulate html page with the help of JS
+BOM- Browser object model used to manipulate Browser page with the help of JS

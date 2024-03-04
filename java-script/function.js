@@ -11,14 +11,18 @@
 // wap to multiply 2 numbers without using multiplication operater
 // wap to add two number using function
 
-function sum()
-{
-                   let a=parseInt(prompt("enter a"));
-                   let b=parseInt(prompt("enter b"));
-                   document.write(a+b)
-}
-sum();
+// function sum()
+// {
+//                    let a=parseInt(prompt("enter a"));
+//                    let b=parseInt(prompt("enter b"));
+//                    document.write(a+b)
+// }
+// sum();
 
+
+function fun(){
+                    alert("this is working");
+}
 
 
 
