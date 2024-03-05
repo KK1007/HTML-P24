@@ -678,7 +678,7 @@ padding: 60px;
 .enter_delivery_search p2{
        padding: 8px 16px;
        padding-top: 15px;
-       width: 191px;
+       width: 290px;
        height: 30px;
        font-size: 20px;
        font-weight: 700;
@@ -687,13 +687,19 @@ padding: 60px;
        margin: 40px 0px 0px -290px;
 }
 .enter_delivery_search p2 a i{
-       
-       color: #000000;
-       
+       color: #000000;     
 }
 
+.enter_delivery_search input[type=text] {
+      
+       padding: 5px;
+       font-size: 17px;
+       border: none;
+       width:200px;
+     }
+
 .search_here{
-       padding: 8px 16px;
+       padding: 40px 16px;
        padding-top: 15px;
        width: 132px;
        height: 30px;
