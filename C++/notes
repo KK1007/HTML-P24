@@ -260,6 +260,12 @@ write a program to generate the facorial of any number using function
 write a program to dispaly the table of amy number using function
 write a program to print the even number from given number usung function
 
+RECURSION-  a function calling itself is called recursion
+ there are two types of recursion
+   i) tail recursion
+   ii) head recursion
+   
+
 
 
 
