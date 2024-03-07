@@ -23,5 +23,31 @@
 //  a[0].style.width="200px";
 
 
-let im = document.getElementById('im');
-im.src="https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_698,h_698/v1684855112/assets/96/4dd3d1-94e7-481e-b28c-08d59353b9e0/original/earner-illustra.png"
+// let im = document.getElementById('im');
+// im.src="https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_698,h_698/v1684855112/assets/96/4dd3d1-94e7-481e-b28c-08d59353b9e0/original/earner-illustra.png"
+
+
+
+// let n= parseInt(prompt("enter the number"));
+// if(n%2==0){
+//                     document.write("even number");
+// }
+// else{
+//                     document.write("odd number");
+// }
+
+
+let age = parseInt(prompt("enter age"));
+ if(age>=18){
+     let I = parseInt(prompt("press 1 for indian"))
+       if(I==1){
+                    document.write("you are eligible")
+       }
+       else{
+                    document.write("you are not eligible")
+       }
+ }
+
+ else{
+                    document.write("you cant vote")
+ }

@@ -328,6 +328,119 @@
                     margin: 0px 590px 20px 630px;               
 }
 
+@media screen and (max-width: 1400px) {
+.detail{
+             width: 350px;         
+}
+
+.continue{
+             width: 225px;   
+}
+
+.or{
+             width: 500px; 
+             margin-left: 600px;             
+}
+
+.google{
+              width: 350px;           
+}
+.apple{
+             width: 350px;           
+}
+
+.facebook{
+             width: 350px;
+}
+.qr p{
+    font-size: 20px;
+   width: 300px;
+}
+.end p{
+              font-size: 12px;
+               width: 300px;        
+}
+}
+
+
+@media screen and (max-width: 1200px) {
+
+       .que{
+              margin-left: 400px; 
+}
+       .detail{
+              margin-left: 400px;         
+ }
+ 
+ .continue{
+       margin-left: 400px;   
+ }
+ 
+ .or{
+             
+              margin-left: 400px;             
+ }
+ 
+ .google{
+       margin-left: 400px;           
+ }
+ .apple{
+       margin-left: 400px;           
+ }
+ 
+ .facebook{
+       margin-left: 400px; 
+ }
+ .qr{
+       margin-left: 400px;
+ }
+ 
+ .end p{
+       margin-left: 450px;         
+ }
+}
+
+@media screen and (max-width: 600px){
+      .navbar{
+       width: 600px;
+      }
+       .que{
+              margin-left: 120px; 
+}
+       .detail{
+              margin-left: 120px;         
+ }
+ 
+ .continue{
+       margin-left: 120px;   
+ }
+ 
+ .or{
+             
+              margin-left: 120px;             
+ }
+ 
+ .google{
+       margin-left: 120px;           
+ }
+ .apple{
+       margin-left: 120px;           
+ }
+ 
+ .facebook{
+       margin-left: 120px; 
+ }
+ .qr{
+       margin-left: 120px;
+ }
+ 
+ .end p{
+       margin-left: 180px;         
+ }
+}
+
+
+
 /*--------------------------------------------------------------------------------------------------------------*/
                                                   /*Drive*/
 
