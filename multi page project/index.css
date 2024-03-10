@@ -1,6 +1,6 @@
 *{
                     margin: 0px 0px 0px 0px;
-                    
+                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .navbar{
@@ -10,6 +10,7 @@
                     font-size: 14px;
                     font-weight: 600;
                     padding: 15px 15px 15px 15px;
+                  
                     
 }
 .start_nav{
@@ -42,7 +43,7 @@
 .end_nav ul li a{
                     color: #FFFFFF;
                     text-decoration: none;
-                    padding: 10px; 
+                    padding: 10px;;
                             
 }
 #sign_up{
@@ -56,6 +57,7 @@
                     display: flex;
                     justify-content: space-evenly;
                     background-color: #000000;
+                    
 }
 .location{
                     color: #FFFFFF;
@@ -66,7 +68,7 @@
 }
 #location{
                     color: #000000;
-                    background-color: #EEEEEE               ;
+                    background-color: #EEEEEE;
                     padding: 10px;
                     border-radius: 10px;
 }

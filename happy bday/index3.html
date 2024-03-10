@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+                    <meta charset='utf-8'>
+                    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+                    <title>Happy Birthday</title>
+                    <meta name='viewport' content='width=device-width, initial-scale=1'>
+                    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+                    <script src='main.js'></script>
+                    <style>
+                                        @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+  transition: all 0.2s ease-in-out;
+}
+
+body {
+  background: #008888;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card {
+  background: #fdfdfd;
+  border-radius: 4px;
+  height: 85vh;
+  width: 80vw;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+  overflow: hidden;
+}
+
+@media only screen and (min-width: 1000px) {
+  .card {
+    flex-direction: row-reverse;
+  }
+  .card img.birthday {
+    width: 100%;
+    max-width: 50vw;
+    max-height: unset;
+  }
+}
+
+@media only screen and (max-height: 640px) {
+  
+  .card img.birthday {
+    width: 100%;
+    max-width: 50vw;
+    max-height: unset;
+  }
+}
+
+img.birthday {
+  max-height: 40vh;
+}
+
+.text {
+  padding: 1em;
+}
+
+.muted {
+  opacity: 0.8;
+}
+
+.space {
+  height: 100px;
+}
+                    </style>
+</head>
+<body>
+                    <div class="card">
+                                        <img src="17.jpeg" alt="birthday" class="birthday">
+                                        <div class="text">
+                                          <h1>Happy Birthday!</h1>
+                                          <p>"As you blow the candles, know that each one carries my wishes for a future filled with happiness, success, and countless moments of love. Happy birthday, my dearest! Here's to creating more memories and growing even closer. You mean the world to me."
+                                             "On your birthday, I want to express the depth of my affection for you. You're not just a partner; you're my confidant, my joy, and my greatest source of comfort. May this year bring you all the love and success you deserve. Happy birthday, my love!"</p>
+                                          <p class="muted">- Kamal Krishan Mishra</p>
+                                          <p><a href="index2.html"style="text-decoration: none; color: black; margin-left:00px;">- Back</p>
+                                        </div>
+                                        <div class="space"></div>
+                                      </div> 
+</body>
+</html>
