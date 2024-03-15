@@ -1,7 +1,7 @@
-div a i{
+ a i{
                     
                     color: black;
-                    margin-left: 20px;
+                    margin-left: 200px;
                     margin-top: 0px;
                     font-size: 30px;
 
@@ -11,11 +11,9 @@ img{
                     border-radius: 20px;
 }
 
-
-
 h2{
                     font-size: 20px;
-                    margin: -50px 0px 40px 190px;
+                    margin: -50px 0px 40px 220px;
 }
 
 h1{

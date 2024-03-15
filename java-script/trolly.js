@@ -1,13 +1,14 @@
 let c= document.getElementById('count');
 let d= document.getElementById('count1');
-let v=0;
+let p= document.getElementById('price');
 
+let v=0;
 function inc(){
    v++;
    c.innerHTML=v;
    d.innerHTML=v;
+   p.innerHTML=287*v;
 }
-
 
 function dec(){
       if(v==0){
@@ -16,4 +17,11 @@ function dec(){
       v--;
       c.innerHTML=v;
       d.innerHTML=v;
+      p.innerHTML=287*v;
 }
+
+
+
+
+
+
