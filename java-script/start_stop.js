@@ -1,12 +1,9 @@
-let a= document.getElementById('h');
-let c= document.getElementById('stp');
-v=0
-
+let r;
 function strt(){ 
-                  setInterval(()=>{document.write("1")},1000)
-                  a.innerHTML=v;   
+              let a = 0;
+              r=setInterval(() => d.h("demo").innerHTML=a++, 1000);
 }
 
 function stp(){
-                    setTimeout(()=> clearInterval(),4000)
+                    clearInterval(r);
 }
